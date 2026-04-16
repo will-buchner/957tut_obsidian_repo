@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Quartz Tutorial
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Beginning of a tutorial to install Quartz for 957 SWARM.
